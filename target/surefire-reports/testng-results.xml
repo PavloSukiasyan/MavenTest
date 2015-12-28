@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="TestingBasics2" duration-ms="25" started-at="2015-12-26T09:26:36Z" finished-at="2015-12-26T09:26:36Z">
+  <suite name="TestingBasics2" duration-ms="25" started-at="2015-12-28T19:06:35Z" finished-at="2015-12-28T19:06:35Z">
     <groups>
     </groups>
-    <test name="SingleTestSuite2" duration-ms="25" started-at="2015-12-26T09:26:36Z" finished-at="2015-12-26T09:26:36Z">
+    <test name="SingleTestSuite2" duration-ms="25" started-at="2015-12-28T19:06:35Z" finished-at="2015-12-28T19:06:35Z">
       <class name="lqas.automation.AppTest2">
-        <test-method status="PASS" signature="forthTest()[pri:0, instance:lqas.automation.AppTest2@73d08edf]" name="forthTest" duration-ms="10" started-at="2015-12-26T11:26:36Z" finished-at="2015-12-26T11:26:36Z">
+        <test-method status="PASS" signature="forthTest()[pri:0, instance:lqas.automation.AppTest2@73d08edf]" name="forthTest" duration-ms="10" started-at="2015-12-28T21:06:35Z" finished-at="2015-12-28T21:06:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- forthTest -->
-        <test-method status="PASS" signature="thirdtTest()[pri:0, instance:lqas.automation.AppTest2@73d08edf]" name="thirdtTest" duration-ms="0" started-at="2015-12-26T11:26:36Z" finished-at="2015-12-26T11:26:36Z">
+        <test-method status="PASS" signature="thirdtTest()[pri:0, instance:lqas.automation.AppTest2@73d08edf]" name="thirdtTest" duration-ms="0" started-at="2015-12-28T21:06:35Z" finished-at="2015-12-28T21:06:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- thirdtTest -->
